@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @57ed
+- 👀 I'm interested in javascript, php, sql, css3, sass, server administration.
+- 🌱 I'm learning javascript, php, servers, sql
+- 👨‍🎓️ Create this repository to learn javascript, php, sql, css3, sass. The objective is through this repository is to store classes that I participate. As a systems developer, I will always be learning something new, hence the motivation for creating this repository.
+- 👍️ This repository will also be able to help someone who is starting in the world of systems development, as for those who want to search for study material.
